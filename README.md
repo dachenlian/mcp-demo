@@ -1,6 +1,6 @@
-# MCP Demo for Computational Linguistics
+# MCP Demo
 
-A demonstration repository showcasing the **Model Context Protocol (MCP)** for computational linguistics and NLP research workflows.
+A demonstration repository showcasing the **Model Context Protocol (MCP)**.
 
 ## Overview
 
