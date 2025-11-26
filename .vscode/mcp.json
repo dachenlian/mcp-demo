@@ -1,0 +1,24 @@
+{
+    "servers": {
+        "linguistHelper": {
+            "type": "stdio",
+            "command": "uv",
+            "args": [
+                "run",
+                "fastmcp",
+                "run",
+                "server.py"
+            ]
+        },
+        "arxiv-mcp-server": {
+            "type": "stdio",
+            "command": "uvx",
+            "args": [
+                "arxiv-mcp-server",
+                "--storage-path",
+                "./data/arxiv_storage"
+            ],
+        }
+    },
+    "inputs": []
+}
