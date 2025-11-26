@@ -49,6 +49,13 @@ Add the following to `.vscode/mcp.json` in your project root:
 
 After adding the configuration, restart VS Code or reload the window for the MCP servers to activate.
 
+Ensure that the two MCP servers are running:
+
+Click on the `Configure Tools` icon in the Copilot Chat panel to verify the servers are listed:
+1. <img src="./img/configure_tools_btn.png" alt="Configured MCP Servers" width="600"/>
+
+2. <img src="./img/configure_tools_list.png" alt="Configured MCP Servers List" width="600"/>
+
 ---
 
 ## Demo Script: Conversation Flow

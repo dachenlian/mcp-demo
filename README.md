@@ -20,6 +20,12 @@ This repository contains:
   - Search and download academic papers from arXiv
   - Perform AI-assisted research analysis
 
+## Using GitHub Codespace
+
+If you don't want to set up the environment locally, you can use GitHub Codespaces to run the demo in the cloud. Simply click the `Code` button at the top of the repository page and select `Open with Codespaces` to create a new codespace instance.
+
+<img src="./img/create_codespace.png" alt="Create Codespace" width="600"/>
+
 ## Prerequisites
 
 ### 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
